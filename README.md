@@ -26,6 +26,7 @@
 
 ## 📁 Project Structure
 inkspire-vn.github.io/
+<pre>
 ├── index.html          # Homepage
 ├── products.html
 ├── events.html
@@ -34,7 +35,7 @@ inkspire-vn.github.io/
 ├── styles.css          # Shared styles
 ├── assets/             # (images, etc.)
 └── README.md
-text---
+</pre>
 
 ## 🎨 Design & Branding
 
