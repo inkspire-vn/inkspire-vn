@@ -34,7 +34,6 @@ inkspire-vn.github.io/
   ├── contact.html
   ├── dev.html            # Admin Dashboard
   ├── styles.css          # Shared styles
-  ├── assets/             # (images, etc.)
   └── README.md
 </pre>
 
