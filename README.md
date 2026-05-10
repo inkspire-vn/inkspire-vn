@@ -1,9 +1,10 @@
+![InkSpire](https://avatars.githubusercontent.com/u/254457838?s=200)
 # InkSpire Bookstore
 
 **A modern, bilingual (Vietnamese & English) static website for InkSpire Bookstore & Stationery**  
 📍 **Thảo Điền, TP. Thủ Đức, TP. Hồ Chí Minh**
 
-![InkSpire](https://avatars.githubusercontent.com/u/254457838?s=200)
+
 
 🌐 **Live Website**: [https://inkspire-vn.github.io](https://inkspire-vn.github.io)
 
@@ -25,16 +26,16 @@
 ---
 
 ## 📁 Project Structure
-inkspire-vn.github.io/
 <pre>
-├── index.html          # Homepage
-├── products.html
-├── events.html
-├── contact.html
-├── dev.html            # Admin Dashboard
-├── styles.css          # Shared styles
-├── assets/             # (images, etc.)
-└── README.md
+inkspire-vn.github.io/
+  ├── index.html          # Homepage
+  ├── products.html
+  ├── events.html
+  ├── contact.html
+  ├── dev.html            # Admin Dashboard
+  ├── styles.css          # Shared styles
+  ├── assets/             # (images, etc.)
+  └── README.md
 </pre>
 
 ## 🎨 Design & Branding
