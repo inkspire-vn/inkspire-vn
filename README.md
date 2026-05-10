@@ -18,7 +18,6 @@
 - **Real-time Data** powered by **Firebase Realtime Database**
   - Dynamic Products
   - Live Events with status (Upcoming, Ongoing, Expired, etc.)
-- **Admin Panel** (`/dev`) – Secure Google login for staff
 - **Auto-updating** product sliders and event sections
 - **Site Status Banner** system (maintenance, update, etc.)
 - Beautiful hero with bookstore aesthetic
