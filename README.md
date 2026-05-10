@@ -53,3 +53,21 @@ inkspire-vn.github.io/
 - **Firebase 10** (Realtime Database + Authentication)
 - **Font Awesome 6**
 - **GitHub Pages** hosting
+
+---
+
+
+## 📬 Contact
+InkSpire Bookstore
+28 Nguyễn Quý Đức, Thảo Điền
+TP. Thủ Đức, TP. Hồ Chí Minh
+
+Phone/Zalo: +84 898 115 608
+Zalo Group: Join here
+
+
+## 📄 License
+This project is private property of InkSpire Bookstore.
+All rights reserved © 2026
+
+Created by <a href="https://github.com/hailongcoding">@hailongcoding</a>
