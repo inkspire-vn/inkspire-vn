@@ -1,7 +1,7 @@
 ![InkSpire](https://avatars.githubusercontent.com/u/254457838?s=200)
 # InkSpire Bookstore
 
-**A modern, bilingual (Vietnamese & English) static website for InkSpire Bookstore & Stationery**  
+**A Vietnamese website for InkSpire Bookstore & Stationery**  
 📍 **Thảo Điền, TP. Thủ Đức, TP. Hồ Chí Minh**
 
 
@@ -13,7 +13,6 @@
 ## ✨ Features
 
 - **Fully Responsive** design with Bootstrap 5
-- **Bilingual Support** (Vietnamese ↔ English) with smooth toggle
 - **Light / Dark Mode** theme switcher
 - **Real-time Data** powered by **Firebase Realtime Database**
   - Dynamic Products
@@ -24,17 +23,6 @@
 
 ---
 
-## 📁 Project Structure
-<pre>
-inkspire-vn.github.io/
-  ├── index.html          # Homepage
-  ├── products.html
-  ├── events.html
-  ├── contact.html
-  ├── dev.html            # Admin Dashboard
-  ├── styles.css          # Shared styles
-  └── README.md
-</pre>
 
 ## 🎨 Design & Branding
 
